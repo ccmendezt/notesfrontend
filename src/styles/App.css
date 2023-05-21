@@ -1,0 +1,12 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.contNotes{
+  justify-content: center;
+}
+
+.header{
+  padding: 10px;
+}
